@@ -13,7 +13,7 @@ React starter pack were made to make it easier for developer to initialize their
 # Installation
 Clone this git repository
 ```git
-git clone 
+git clone https://github.com/vincenciusgeraldo/react-starter-pack.git
 ```
 Install all the dependencies using NPM
 ```
